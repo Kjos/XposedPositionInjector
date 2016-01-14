@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cardboard Position Injector</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Position Settings</string>
+    <string name="catpref_title_filter">Position Settings</string>
+    <string name="catpref_summary_filter">Setup the settings of the position injector</string>
+
+</resources>
